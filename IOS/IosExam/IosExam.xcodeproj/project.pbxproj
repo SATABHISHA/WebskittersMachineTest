@@ -140,8 +140,7 @@
 		1713CC63259F356100D1F957 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				1713CC28259F120700D1F957 /* ViewController.swift */,
-				1713CCA2259F957900D1F957 /* ViewControllerTableViewCell.swift */,
+				1713CC2A259F120700D1F957 /* Main.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -149,7 +148,8 @@
 		1713CC64259F356A00D1F957 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				1713CC2A259F120700D1F957 /* Main.storyboard */,
+				1713CC28259F120700D1F957 /* ViewController.swift */,
+				1713CCA2259F957900D1F957 /* ViewControllerTableViewCell.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
